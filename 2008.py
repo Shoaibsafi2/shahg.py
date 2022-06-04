@@ -72,7 +72,7 @@ os.system('termux-setup-storage')
 def helpnote():
 	print("%s [=>] FOLLOW ME ON  FB TU KNOW ABOUT UPDATES  :)"%(G))
 	#yahan nichy httsp sy hata kr apna github aproval link dalna
-	subprocess.check_output(["am", "start", "https://raw.githubusercontent.com/Shoaibsafi2/shahg.py/main/ssk.txt"])
+	subprocess.check_output(["am", "start", "https://raw.githubusercontent.com/Shoaibsafi2/shahg.py/main/ssk.txt/blob/main/ssk.txt"])
 	#yahan apni facebook id link dalna
 	exit(" [=>] FACEBOOK :  https://www.facebook.com/Abal.Not.Allow.ok.Bro")
 
