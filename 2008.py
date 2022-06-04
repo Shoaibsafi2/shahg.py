@@ -151,7 +151,7 @@ class Main:
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Version : 6\x1b[0m\x1b[1;97m] \033[1;37m 
  ───────────────────────────────────────────────────────×
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Author   : Mr. SHAYANOX3SULEMANO \x1b[0m\x1b[1;97m]
-\t\033[1;97m[\x1b[1;97m\x1b[1;41m Github   : https://github.com/SHAYANOX3SULEMANO75o \x1b[0m\x1b[1;97m]
+\t\033[1;97m[\x1b[1;97m\x1b[1;41m Github   : https://github.com/shaoibsafi12 \x1b[0m\x1b[1;97m]
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Facebook Page Name : SHAYANOX3SULEMANO  Bar \x1b[0m\x1b[1;97m]
 ───────────────────────────────────────────────────────× 
     """)
